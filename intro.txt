@@ -1,0 +1,49 @@
+====== What jobs can you get if you know how to code?
+https://www.switchup.org/blog/what-types-of-jobs-can-coders-get
+
+====== What non coding jobs are in tech?
+https://www.freecodecamp.org/news/alternative-career-paths/
+
+===== Salaries if you know how to code =====
+https://www.businessinsider.com/the-top-coding-languages-with-the-highest-salary-2020-4#perl-is-associated-with-an-average-global-salary-of-8402550-15
+
+
+===== Prerequisites =====
+1. a text editor (vs code)
+>>> https://code.visualstudio.com/download
+1b. Live Server Extension
+1c. Prettier Extension
+2. download git (comes with git bash)
+>>> https://git-scm.com/downloads
+3. download a internet browser besides safari
+>>> https://www.google.com/chrome/
+4. GitHub
+>>> https://www.github.com
+
+=========== ANALOGIES ==========
+web tech is like a house:
+- html the frame
+
+====== Learning outline =======
+1. HTML
+Tutorial: https://youtu.be/UB1O30fR-EE
+SLIDES: https://docs.google.com/presentation/d/1DKMrJVdRkQuX_M4O04PAEAov8nM9c9TrjSQVmhMg1RM/edit#slide=id.gb25129aa0d_0_57
+
+1b. GitHub
+Site: https://github.com
+Tutorial: https://youtu.be/SWYqp7iY_Tc
+
+===== HTML HOMEWORK =====
+1. sign up for linkedin add 10 developers with job listed on their profile
+1b. compose a well written telling them you are a new developer and would 
+    like to network with them
+2. find HTML elements not mentioned today
+3. find out what CSS is
+4. find a web page that you think looks nice
+
+===== Resources =====
+W3Schools: https://www.w3schools.com/
+SoloLearn: https://www.sololearn.com
+Developer.Mozilla: https://developer.mozilla.org/en-US/
+Traversy Media: https://www.youtube.com/c/TraversyMedia
+Udemy: https://www.udemy.com/ <<< not all courses are free
